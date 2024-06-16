@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PluginV1XML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FRIENDLY_NAME>Object De</FRIENDLY_NAME>
+  <DLL_FILENAME>ObjectDe.dll</DLL_FILENAME>
+  <AUTHOR_NAME>Vidyashilp University</AUTHOR_NAME>
+  <LICENSE_URL>https://synthiam.com/Software/plugin-license.aspx</LICENSE_URL>
+  <PLUGIN_GUID>3f7a1c62-ddf4-44b0-9525-459f21495949</PLUGIN_GUID>
+  <CATEGORY_TYPE>Beta</CATEGORY_TYPE>
+  <DESCRIPTION>It should be able to detect the objects</DESCRIPTION>
+  <VersionRelease>0</VersionRelease>
+</PluginV1XML>

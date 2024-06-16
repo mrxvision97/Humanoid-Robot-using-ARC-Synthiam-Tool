@@ -1,0 +1,5 @@
+C:\My Documents\SVN\Developer - Windows\EZ-Builder\EZ-Builder\Resources\Behavior Control Example Project\MY_PROJECT_NAME\MY_PROJECT_NAME\obj\Debug\MY_PROJECT_NAME.csproj.AssemblyReference.cache
+C:\My Documents\SVN\Developer - Windows\EZ-Builder\EZ-Builder\Resources\Behavior Control Example Project\MY_PROJECT_NAME\MY_PROJECT_NAME\obj\Debug\MY_PROJECT_NAME.ConfigForm.resources
+C:\My Documents\SVN\Developer - Windows\EZ-Builder\EZ-Builder\Resources\Behavior Control Example Project\MY_PROJECT_NAME\MY_PROJECT_NAME\obj\Debug\MY_PROJECT_NAME.MainForm.resources
+C:\My Documents\SVN\Developer - Windows\EZ-Builder\EZ-Builder\Resources\Behavior Control Example Project\MY_PROJECT_NAME\MY_PROJECT_NAME\obj\Debug\MY_PROJECT_NAME.csproj.GenerateResource.cache
+C:\My Documents\SVN\Developer - Windows\EZ-Builder\EZ-Builder\Resources\Behavior Control Example Project\MY_PROJECT_NAME\MY_PROJECT_NAME\obj\Debug\MY_PROJECT_NAME.csproj.CoreCompileInputs.cache
